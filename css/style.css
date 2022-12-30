@@ -77,6 +77,14 @@
 .text-color{
     color: #45c3fd;
 }
+.nav-link:clicked{
+    color: red;
+}
+.nav-link:hover{
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+}
+
 
 
 /* Heading */
