@@ -24,12 +24,7 @@ body{
       font-size: 14px;
       line-height: 1.8;
 }
-/* .i-short-description{
-    height: 180px;
-}
-.item-details h4{
-    height: 60px;
-} */
+
 .p-item-price .i-price{
     display: flex;
     justify-content: center;
@@ -54,5 +49,12 @@ body{
     margin-top: 40px;
     margin-bottom: 30px;
     margin-left: 15%;
+}
+
+.pro-h4 h4{
+    height: 40px;
+}
+.pro-description ul{
+    height: 120px;
 }
 
